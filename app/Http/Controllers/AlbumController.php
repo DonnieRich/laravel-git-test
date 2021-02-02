@@ -14,11 +14,7 @@ class AlbumController extends Controller
      */
     public function index()
     {
-<<<<<<< HEAD
         // Continuo ad avere un conflitto
-=======
-        // Creo un conflitto
->>>>>>> e421da63680735705118579ad073f2d6199e6e1a
     }
 
     /**
@@ -28,7 +24,7 @@ class AlbumController extends Controller
      */
     public function create()
     {
-        //
+        // Nuovo conflitto - modifica locale
     }
 
     /**
