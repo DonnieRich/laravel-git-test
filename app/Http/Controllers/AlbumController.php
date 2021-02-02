@@ -28,7 +28,7 @@ class AlbumController extends Controller
      */
     public function create()
     {
-        //
+        // Nuovo conflitto - modifica remota
     }
 
     /**
