@@ -11,4 +11,5 @@ class Album extends Model
     // NUOVO CONFLITTO LOCALE
     // NUOVO CONFLITTO LOCALE - risolvere via cli
     // NUOVO CONFLITTO LOCALE - add a space hack 
+    // NUOVO CONFLITTO REMOTO - mark as resolved
 }
