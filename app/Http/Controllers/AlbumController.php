@@ -35,7 +35,7 @@ class AlbumController extends Controller
      */
     public function store(Request $request)
     {
-        // CONFLITTO METODO STORE - LOCALE
+        // CONFLITTO REMOTO
     }
 
     /**
