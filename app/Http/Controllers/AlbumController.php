@@ -24,7 +24,11 @@ class AlbumController extends Controller
      */
     public function create()
     {
+<<<<<<< HEAD
         // Nuovo conflitto - modifica locale
+=======
+        // Nuovo conflitto - modifica remota
+>>>>>>> main
     }
 
     /**
