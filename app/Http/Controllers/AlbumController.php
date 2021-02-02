@@ -14,7 +14,7 @@ class AlbumController extends Controller
      */
     public function index()
     {
-        //
+        // Continuo ad avere un conflitto
     }
 
     /**
